@@ -1,5 +1,7 @@
 # 🎵 Note Flipper™ – Automatic Wireless Page Turner  
 
+📄 [Project Presentation (PDF)](Noteflipper_presentation.pdf)
+
 We will eradicate all awkward pauses for musicians.  
 **Note Flipper™** is an automatic, wireless, fast, and portable page-turning device.  
 It works with traditional paper notebooks, offering an alternative to digital interfaces while preserving a more authentic musical experience.  
@@ -44,13 +46,7 @@ Our team consisted of two members:
 ## 🖼️ Project Photos  
 
 **Flipper mechanism prototype**  
-<img src="images/flipper_mechanism.jpg" width="400"/>  
-
-**Pedal mechanism**  
-<img src="images/pedal_mechanism.jpg" width="400"/>  
-
-**Electronics assembly**  
-<img src="images/electronics.jpg" width="400"/>  
+<img src="noteflipper_whole.jpg" width="400"/>  
 
 ## 🎥 Final Demo Video  
 
